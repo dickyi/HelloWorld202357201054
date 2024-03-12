@@ -15,6 +15,7 @@ public class HelloWorld202357201054 {
      */
     public static void main(String[] args) {
         System.out.println("Helloworld");
+        System.out.println("Dicky di sini");
     }
     
 }
