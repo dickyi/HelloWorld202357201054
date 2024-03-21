@@ -8,8 +8,8 @@ package helloworld202357201054;
  *
  * @author Irawa
  */
-public class dic {
+public class dicky2 {
     public static void main(String[] args) {
-        System.out.println("hai");
+        System.out.println("hal");
     }
 }
